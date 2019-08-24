@@ -50,27 +50,27 @@ So I can go on my profile
 I can sign in
 
 As a User
-So I can exit my profile
+So no one else can access my profile
 I can sign out
 
 As a User
 So I can share a photo
-I can post
+I can post a photo
 
 As a User
 So I can share my thoughts
-I can comment on photos
+I can comment on a photo
 
 As a User
 So I can appreciate a post
-I can like photos
+I can like a photo
 
 As a User
-I can only delete my own photos
+I can only delete my own photo
 
 As a User
-I can only delete my own comments
+I can only delete my own comment
 
 As a User
-I can only edit my own captions
+I can only edit my own caption
 ```
